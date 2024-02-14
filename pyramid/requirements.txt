@@ -1,0 +1,7 @@
+pyramid==2.0.2
+pyramid_jinja2==2.10.1
+cookiecutter==2.5.0
+httpie==3.2.2
+marshmallow==3.20.2
+marshmallow_enum==1.5.1
+waitress==3.0.0

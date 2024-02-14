@@ -1,0 +1,4 @@
+Flask==3.0.2
+flask-restful==0.3.10
+httpie==0.9.9
+colorlog==6.8.0
